@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yoga-capstone/static/css/main.556e7181.chunk.css",
+    "main.js": "/yoga-capstone/static/js/main.ec010917.chunk.js",
+    "main.js.map": "/yoga-capstone/static/js/main.ec010917.chunk.js.map",
+    "runtime-main.js": "/yoga-capstone/static/js/runtime-main.1708bfa3.js",
+    "runtime-main.js.map": "/yoga-capstone/static/js/runtime-main.1708bfa3.js.map",
+    "static/js/2.f26db0b5.chunk.js": "/yoga-capstone/static/js/2.f26db0b5.chunk.js",
+    "static/js/2.f26db0b5.chunk.js.map": "/yoga-capstone/static/js/2.f26db0b5.chunk.js.map",
+    "index.html": "/yoga-capstone/index.html",
+    "static/css/main.556e7181.chunk.css.map": "/yoga-capstone/static/css/main.556e7181.chunk.css.map",
+    "static/js/2.f26db0b5.chunk.js.LICENSE.txt": "/yoga-capstone/static/js/2.f26db0b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1708bfa3.js",
+    "static/js/2.f26db0b5.chunk.js",
+    "static/css/main.556e7181.chunk.css",
+    "static/js/main.ec010917.chunk.js"
+  ]
+}
